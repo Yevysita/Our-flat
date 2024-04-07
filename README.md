@@ -36,5 +36,4 @@
 <footer style= "background: yellow">
   <h1 style="text-align: center;font-size: 50px">Робила ваша Єва!</h1>
   <h2 style="text-aligh: center;font size: 40px">Зробленно з любов'ю)</h2>
-  <p><p style="color:olive" >Моя електронна адреса: valyavskaeva@gmail.com</p></p>
 </html>
